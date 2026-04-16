@@ -8,3 +8,4 @@ langchain-text-splitters
 langchain-chroma==0.1.4
 chromadb==0.5.23
 sentence-transformers
+opentelemetry-exporter-otlp-proto-grpc>=1.26.0
